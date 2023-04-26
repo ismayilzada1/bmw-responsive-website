@@ -1,0 +1,40 @@
+.review .box-container{
+    display:grid;
+    grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
+    gap:1.5rem;
+}
+
+.review .box-container .box{
+    text-align: center;
+    padding:3rem 2rem;
+    background-color: #fff;
+    border-radius:3rem;
+}
+
+.review .box-container .box p{
+    font-size: 1.5rem;
+    line-height: 1.8;
+    padding:2rem 0;
+}
+
+.review .box-container .box .user{
+    border-radius:50%;
+    height: 7rem;
+    width: 7rem;
+    object-fit: cover;
+}
+
+.review .box-container .box .user:hover{
+    transform: scale(1.3);
+    margin-bottom:1rem;
+}
+
+.review .box-container .box h3{
+    padding:1rem 0;
+    font-size: 2rem;
+}
+
+.review .box-container .box .stars i{
+    color:gold;
+    font-size: 2rem;
+}

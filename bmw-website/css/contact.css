@@ -1,0 +1,53 @@
+.contact .row{
+    display:flex;
+    background-color:#0e0e0e;
+    flex-wrap: wrap;
+    gap:1rem;
+}
+
+.contact .row .map
+{
+    flex:1 1 45rem;
+    width: 100%;
+    object-fit: cover;
+}
+
+.contact .row form{
+    flex:1 1 45rem;
+    padding:5rem 2rem;
+    text-align: center;
+}
+
+.contact .row form h3{
+    color:#fff;
+    text-transform: uppercase;
+    font-size: 3.5rem;
+
+}
+
+.contact .row form .input-box{
+    display:flex;
+    align-items: center;
+    margin:2rem 0;
+    border:0.1rem solid white;
+}
+
+.contact .row form .input-box i{
+    color:white;
+    padding-left:2rem;
+    font-size: 2rem;
+}
+
+.contact .row form .input-box input{
+    padding:2rem;
+    width: 100%;
+    font-size: 1.7rem;
+    text-transform: none;
+    background:none;
+    color:white;
+}
+
+.contact .row form .input-box input:-webkit-autofill {
+    -webkit-box-shadow: 0 0 0 1000px #0e0e0e inset !important;
+    -webkit-text-fill-color: white !important;
+  }
