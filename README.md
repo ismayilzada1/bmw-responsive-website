@@ -5,14 +5,13 @@ Live Demo: https://ismayilzada-mahammad-bmw.netlify.app/
 
 ![Screenshot (79)](https://user-images.githubusercontent.com/130251565/234447575-1e7a7c69-2d1a-4f28-984e-a00a3111ba65.png)
 
-![Screenshot (83)](https://user-images.githubusercontent.com/130251565/234447571-5fc2b2f5-4c8c-4960-87b0-e3581fa64ec7.png)
-
-
 ![Screenshot (80)](https://user-images.githubusercontent.com/130251565/234447578-7a5866fd-7ffc-4d0e-b756-ad177c478457.png)
 
 ![Screenshot (81)](https://user-images.githubusercontent.com/130251565/234447581-5d05c5e6-8151-4dff-9f14-55d0b063d0fe.png)
 
 ![Screenshot (82)](https://user-images.githubusercontent.com/130251565/234447585-47273ce9-ddbc-4e62-bb0f-b5f6055b0d2f.png)
+
+![Screenshot (83)](https://user-images.githubusercontent.com/130251565/234447571-5fc2b2f5-4c8c-4960-87b0-e3581fa64ec7.png)
 
 
 
