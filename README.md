@@ -3,10 +3,10 @@ Responsive BMW website using HTML CSS JS.
 
 Live Demo: https://ismayilzada-mahammad-bmw.netlify.app/
 
+![Screenshot (79)](https://user-images.githubusercontent.com/130251565/234447575-1e7a7c69-2d1a-4f28-984e-a00a3111ba65.png)
 
 ![Screenshot (83)](https://user-images.githubusercontent.com/130251565/234447571-5fc2b2f5-4c8c-4960-87b0-e3581fa64ec7.png)
 
-![Screenshot (79)](https://user-images.githubusercontent.com/130251565/234447575-1e7a7c69-2d1a-4f28-984e-a00a3111ba65.png)
 
 ![Screenshot (80)](https://user-images.githubusercontent.com/130251565/234447578-7a5866fd-7ffc-4d0e-b756-ad177c478457.png)
 
